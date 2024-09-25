@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestAppInternationalization</string>
+    <string name="app_change_language">ভাষা পরিবর্তন করতে ক্লিক করুন</string>
+    <string name="app_request_read_permission">পড়ার অনুমতির অনুরোধ করুন</string>
+    <string name="app_have_read_permission">ইতিমধ্যেই পড়ার অনুমতি আছে</string>
+    <string name="app_close_request_read_permission">সিস্টেম অনুমতি পপ-আপ উইন্ডো বন্ধ করুন</string>
+    <string name="app_open_service">ওপেন সার্ভিস</string>
+    <string name="app_send_notification">কাস্টম বিজ্ঞপ্তি পাঠান</string>
+    <string name="app_language_zh">ডিফল্ট ভাষা (চীনা)</string>
+    <string name="app_language_en">ইংরেজি</string>
+    <string name="app_language_bn">বাঙালি</string>
+    <string name="app_notification_title">বিজ্ঞপ্তি শিরোনাম</string>
+    <string name="app_notification_content">বিজ্ঞপ্তি বিষয়বস্তু...</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestAppInternationalization</string>
+
+    <string name="app_change_language">点击切换语言</string>
+    <string name="app_request_read_permission">请求读权限</string>
+    <string name="app_have_read_permission">已经有读权限</string>
+    <string name="app_close_request_read_permission">关闭系统权限弹窗</string>
+    <string name="app_open_service">打开服务</string>
+    <string name="app_send_notification">发送自定义通知</string>
+    <string name="app_language_zh">默认语言(中文)</string>
+    <string name="app_language_en">英文</string>
+    <string name="app_language_bn">孟加拉文</string>
+    <string name="app_notification_title">通知标题</string>
+    <string name="app_notification_content">通知内容...</string>
+
+</resources>

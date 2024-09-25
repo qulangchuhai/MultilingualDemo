@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestAppInternationalization</string>
+
+    <string name="app_change_language">Click to switch language</string>
+    <string name="app_request_read_permission">Requesting read permission</string>
+    <string name="app_have_read_permission">Already have read permission</string>
+    <string name="app_close_request_read_permission">Close the system permission pop-up window</string>
+    <string name="app_open_service">Open Services</string>
+    <string name="app_send_notification">Send custom notifications</string>
+    <string name="app_language_zh">Default language (Chinese)</string>
+    <string name="app_language_en">English</string>
+    <string name="app_language_bn">Bengali</string>
+    <string name="app_notification_title">Notification title</string>
+    <string name="app_notification_content">Notification content...</string>
+</resources>
